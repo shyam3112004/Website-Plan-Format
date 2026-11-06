@@ -1,0 +1,24 @@
+{
+  "projectName": "[PROJECT_NAME]",
+  "websiteType": "[WEBSITE_TYPE]",
+  "version": "0.1.0",
+  "status": "draft",
+  "budget": {
+    "currency": "[CURRENCY]",
+    "maximum": null,
+    "paymentMethodAllowed": "[TBD]"
+  },
+  "scope": {
+    "staticSite": null,
+    "backendRequired": null,
+    "authenticationRequired": null,
+    "onlinePaymentsRequired": null
+  },
+  "stack": {
+    "frontend": "[TBD]",
+    "hosting": "[TBD]",
+    "database": "[NONE_OR_TBD]"
+  },
+  "domain": "[TBD]",
+  "lastUpdated": "[YYYY-MM-DD]"
+}

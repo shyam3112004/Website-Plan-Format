@@ -1,0 +1,22 @@
+{
+  "version": "v1",
+  "filenamePattern": "frame_{index}.webp",
+  "indexStart": 1,
+  "desktop": {
+    "path": "/frames/v1/desktop/",
+    "count": null,
+    "width": null,
+    "height": null,
+    "totalBytes": null
+  },
+  "mobile": {
+    "path": null,
+    "count": null,
+    "width": null,
+    "height": null,
+    "totalBytes": null
+  },
+  "poster": "/posters/hero.webp",
+  "auditStatus": "pending",
+  "notes": "Replace null values using the actual frame audit. Do not assume the screenshot shows the entire sequence."
+}

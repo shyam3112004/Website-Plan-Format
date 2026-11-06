@@ -1,0 +1,60 @@
+{
+  "slug": "home",
+  "brand": "Modern Guideways",
+  "title": "Modern Guideways | CNC, VMC & HMC Telescopic Covers",
+  "metaDescription": "CNC, VMC and HMC telescopic cover service and manufacturing. Explore telescopic covers, roller covers, apron covers, bellows, guide wipers and enclosing guards.",
+  "hero": {
+    "heading": "Precision Protection for CNC, VMC & HMC Machines",
+    "body": "Telescopic cover service and manufacturing by Modern Guideways.",
+    "cta": "Request a Quote",
+    "animation": {
+      "manifest": "/frames/v1/manifest.json",
+      "poster": "/posters/hero.webp"
+    }
+  },
+  "products": [
+    {
+      "slug": "telescopic-covers",
+      "name": "Telescopic Covers",
+      "description": "Description pending company approval."
+    },
+    {
+      "slug": "roller-covers",
+      "name": "Roller Covers",
+      "description": "Description pending company approval."
+    },
+    {
+      "slug": "apron-covers",
+      "name": "Apron Covers",
+      "description": "Description pending company approval."
+    },
+    {
+      "slug": "bellows",
+      "name": "Bellows",
+      "description": "Description pending company approval."
+    },
+    {
+      "slug": "guide-wipers",
+      "name": "Guide Wipers",
+      "description": "Description pending company approval."
+    },
+    {
+      "slug": "enclosing-guards",
+      "name": "Enclosing Guards",
+      "description": "Description pending company approval."
+    }
+  ],
+  "contact": {
+    "phones": [
+      "+91 80564 38763",
+      "+91 87781 21768"
+    ],
+    "email": "modernguideways@gmail.com",
+    "address": "2/186, Gollapatti (Vill), Selliam Patti (Po), Palacode (Tk), Dharmapuri (Dt), Tamil Nadu - 636 809",
+    "website": "www.modernguideways.com"
+  },
+  "approval": {
+    "status": "draft",
+    "note": "Verify all business facts and replace product descriptions before production."
+  }
+}

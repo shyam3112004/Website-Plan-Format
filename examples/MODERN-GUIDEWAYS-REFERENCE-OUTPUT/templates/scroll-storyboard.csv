@@ -1,0 +1,6 @@
+scene_id,progress_start,progress_end,frame_start,frame_end,visible_subject,approved_heading,approved_body,overlay_position,mobile_crop_notes,owner_approved,reviewer,review_date
+hero,0.0,0.12,,,Review actual frame contact sheet,"Precision Protection for CNC, VMC & HMC Machines",Modern Guideways - telescopic cover service and manufacturing.,center,,no,,
+machine-context,0.12,0.28,,,Pending visual review,Machine Protection Components,Use only copy that matches the visible frames.,left,,no,,
+product-focus,0.28,0.48,,,Pending visual review,Telescopic Covers,Product identification must be visually verified.,right,,no,,
+product-range,0.48,0.7,,,Pending visual review,A Range of Protection Components,"Roller covers, apron covers, bellows, guide wipers and enclosing guards.",left,,no,,
+cta,0.82,1.0,,,Choose stable closing frame,Discuss Your Machine-Cover Requirement,Contact Modern Guideways for an enquiry.,center,,no,,
